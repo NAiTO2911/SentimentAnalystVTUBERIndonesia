@@ -11,13 +11,13 @@ auth.set_access_token(accessToken, accessTokenSecret)
 api = tweepy.API(auth)
 
 # Open/create a file to append data to
-csvFile = open('datacrawling.csv', 'a')
+csvFile = open('testing.csv', 'a')
 
 #Use csv writer
 csvWriter = csv.writer(csvFile)
 
 for tweet in tweepy.Cursor(api.search_tweets,
-                           q = "@MythiaVTuber -filter:retweets",
+                           q = "#Vtuber -filter:retweets",
                            lang = "id").items():
                            
 
