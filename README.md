@@ -17,14 +17,20 @@ EN : Virtual Youtuber came from 2 word from English,, Virtual in Cambridge Dicti
 ID : Virtual Youtuber berasal dari 2 kata yang berasal dari bahasa inggris, Virtual dalam cambridge dictionary yang berarti tampil atau hadir dengan menggunakan perangkat lunak komputer, misalnya di internet, namun tak tampak dalam dunia nyata; dan Youtuber dalam cambridge dictionary merupakan seseorang yang menggunakan platform YouTube, terutama seseorang yang membuat dan tampil dalam video pada platform tersebut. Selain itu, dilansir dari situs virtualhumans.org, Virtual Youtuber adalah Seseorang dalam dunia virtual dimana menyiarkan kehidupannya pada platform video yang populer. Selain itu, Lu, Z. (2021) menyatakan bahwa Virtual Youtuber merupakan sebuah animasi avatar virtual yang membawa penampilannya dalam siaran langsung vidio atau vidio yang sudah direkam. Avatar tersebut disulih suarakan oleh seorang aktor, yang dimana mereferensikan sebagai seorang Nakanohito (中の人) di Jepang.
 
 ## Why Twitter? / Kenapa Twitter?
-EN : Twitter is one of micro-blogging media and social media which can influence popularity since last decade where with over 131 million active user and more than 500 million post per day, and Twitter also one of the best way to increase social relationship with friend, family, and collegue (Doshi, Z., et all, 2017). Twitter also have API where easy to getting data
+EN : Twitter is one of micro-blogging media and social media which can influence popularity since last decade where with over 131 million active user and more than 500 million post per day, and Twitter also one of the best way to increase social relationship with friend, family, and colleague (Doshi, Z., et all, 2017). Twitter also have API where easy to getting data
 </br>
 ID : Twitter merupakan salah satu media micro-blogging dan media sosial yang dapat penyebar popularitasnya sejak akhir dekade dimana dengan lebih dari 131 juta pengguna aktif dan lebih dari 500 juta post per harinya, dan Twitter juga merupakan salah satu cara yang terbaik untuk meningkatkan hubungan sosial terhadap teman, keluarga, dan kolega (Doshi, Z., dkk, 2017). Twitter sendiri yang memiliki API yang mudah untuk menarik data.
 
 ## Project Focus / Fokus Projek
 EN : In this project, theres 8346 data from twitter with keyword @EvelynVtuber, @airaniiofifteen, @MythiaVTuber, #holoID, #Hololive, #HololiveID, #IDVtuber, #NIJISANJI_ID, #VtuberID, #Vtuber, kobokanaeru, vtuber indonesia, dan Virtual Youtuber Indonesia. This data has been scrapping with Tweepy from 31 march 2022 – 14 april 2022 and 8 july – 14 july 2022. However in Training datasets section, Random Oversampling (ROS) has been Applied due imbalanced data after data annotation step. In this project, Python is main language with Jupyter Notebook (.ipynb) as python interpreter beside .py a data scrapping.
 </br>
-ID :Pada project ini, digunakan sebesar 8346 data yang berasal dari twitter dengan kata kunci @EvelynVtuber, @airaniiofifteen, @MythiaVTuber, #holoID, #Hololive, #HololiveID, #IDVtuber, #NIJISANJI_ID, #VtuberID, #Vtuber, kobokanaeru, vtuber indonesia, dan Virtual Youtuber Indonesia. Data tersebut diambil dengan bantuan Tweepy pada tanggal 31 maret 2022 – 14 april 2022 dan 8 juli – 14 juli 2022. Meski begitu. Pada project ini digunakan bahasa pemograman Python dengan bantuan Jupyter Notebook (.ipynb) sebagai python interpreter selain .py pada data scrapping
+ID :Pada project ini, digunakan sebesar 8346 data yang berasal dari twitter dengan kata kunci @EvelynVtuber, @airaniiofifteen, @MythiaVTuber, #holoID, #Hololive, #HololiveID, #IDVtuber, #NIJISANJI_ID, #VtuberID, #Vtuber, kobokanaeru, vtuber indonesia, dan Virtual Youtuber Indonesia. Data tersebut diambil dengan bantuan Tweepy pada tanggal 31 maret 2022 – 14 april 2022 dan 8 juli – 14 juli 2022. Meski begitu. Pada project ini digunakan bahasa pemograman Python dengan bantuan Jupyter Notebook (.ipynb) sebagai python interpreter selain .py pada data scrapping.
+
+## Future Development / Pengembangan Selanjutnya
+* Add more datasets (Twitter Premium API/Academic Research API Recommended)
+* Add more Algorythm and Classifier (esp CategoricalNB which have major failure)
+* GUI development (web based)
+* Efficiency Preprocessing
 
 ## additional info
-* Nakanohito = Seiyuu; Voice Actor/Actress
+*Nakanohito = Seiyuu; Voice Actor/Actress
