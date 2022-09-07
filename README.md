@@ -1,5 +1,5 @@
-![image](https://user-images.githubusercontent.com/58834510/188870318-fe9105cc-8856-47a1-9d75-45a9bd7b564b.png)
-src. pixiv.net/en/users/72817268
+![image](https://user-images.githubusercontent.com/58834510/188881928-1032988c-3ffe-4d20-846d-78232a8d949b.png)
+src. pixiv.net/en/users/3344291
 
 # Sentiment Analyst Virtual Youtuber in Indonesia
 EN : This project was used for my undergraduate thesis in Education of System and Information Technology, Indonesia University of Education (Purwakarta branch)
