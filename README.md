@@ -2,7 +2,6 @@
 src. pixiv.net/en/users/72817268
 
 # Sentiment Analyst Virtual Youtuber in Indonesia
-</br>
 EN : This project was used for my undergraduate thesis in Education of System and Information Teghnology, Indonesia University of Education (Purwakarta branch)
 </br>
 ID : Projek ini digunakan untuk penelitian skripsi di Pendidikan Sistem dan Teknologi Informasi, Universitas Pendidikan Indonesia (Kampus Purwakarta)
