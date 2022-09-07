@@ -21,7 +21,7 @@ EN : Twitter is one of micro-blogging media and social media which can influence
 </br>
 ID : Twitter merupakan salah satu media micro-blogging dan media sosial yang dapat penyebar popularitasnya sejak akhir dekade dimana dengan lebih dari 131 juta pengguna aktif dan lebih dari 500 juta post per harinya, dan Twitter juga merupakan salah satu cara yang terbaik untuk meningkatkan hubungan sosial terhadap teman, keluarga, dan kolega (Doshi, Z., dkk, 2017). Twitter sendiri yang memiliki API yang mudah untuk menarik data.
 
-## Focus Project / Fokus Projek'
+## Focus Project / Fokus Projek
 EN : In this project, theres 8346 data from twitter with keyword @EvelynVtuber, @airaniiofifteen, @MythiaVTuber, #holoID, #Hololive, #HololiveID, #IDVtuber, #NIJISANJI_ID, #VtuberID, #Vtuber, kobokanaeru, vtuber indonesia, dan Virtual Youtuber Indonesia. This data has been scrapping with Tweepy from 31 march 2022 – 14 april 2022 and 8 july – 14 july 2022. However in Training datasets section, Random Oversampling (ROS) has been Applied due imbalanced data after data annotation step. In this project, Python is main language with Jupyter Notebook (.ipynb) as python interpreter beside .py a data scrapping.
 </br>
 ID :Pada project ini, digunakan sebesar 8346 data yang berasal dari twitter dengan kata kunci @EvelynVtuber, @airaniiofifteen, @MythiaVTuber, #holoID, #Hololive, #HololiveID, #IDVtuber, #NIJISANJI_ID, #VtuberID, #Vtuber, kobokanaeru, vtuber indonesia, dan Virtual Youtuber Indonesia. Data tersebut diambil dengan bantuan Tweepy pada tanggal 31 maret 2022 – 14 april 2022 dan 8 juli – 14 juli 2022. Meski begitu. Pada project ini digunakan bahasa pemograman Python dengan bantuan Jupyter Notebook (.ipynb) sebagai python interpreter selain .py pada data scrapping
